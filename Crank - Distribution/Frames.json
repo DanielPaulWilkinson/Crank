@@ -1,0 +1,124 @@
+	[ 
+	  {
+		"Id":1,
+		"Name":"Cinelli Mash Histogram Frameset",
+		"Forks":"Columbus Pista Leggera carbon with an aluminium steerer",
+		"Frame_Material":"Alloy",
+		"Frame_Weight":"510g",
+		"Type":"Bike Frames",
+		"Cable_Routing":"External",
+	    "Headset":"Columbus Compass 1-1/8? ? 1-1/2?",
+		"Image":"img/frame1.jpg",
+		"Description":"The geometry of the Cinelli Mash Histogram Frameset satisfies the needs of riders who love to plunge straight into tight curves, quickly changing direction in sudden slaloms; the ultimate street bike. A super steep head tube and seat tube angles with a raised bottom bracket all contribute to the aggressive nature of this bike. The Histogram is an aggressive riding, street machine, for urban riders and sophisticated commuters."
+	  },
+	  {
+		"Id":2,
+		"Name":"Tifosi CK4 Sportivo Frameset",
+		"Forks":"Tifosi Carbon 1 1/8? ? 1 1/2? with mudguard eyes",
+		"Frame_Material":"Alloy",
+		"Frame_Weight":"340g",
+		"Type":"Bike Frame",
+		"Cable_Routing":"External",
+	    "Headset":"Integrated headset MSS118112 included",
+		"Image":"img/frame2.jpg",
+		"Description":"The Tifosi CK4 Sportivo Frameset is perfect for a fast Sportive, commuting or winter bike. It’s ready to take on the harshest of British roads and weather conditions, with its anti-corrosion priming and double coat paint finish"
+	  },
+	  {
+		"Id":3,
+		"Name":"Cinelli Mash Works Steel Frameset",
+		"Forks":"Columbus Cromor Steel, 35mm rake",
+		"Frame_Material":"Steel",
+		"Frame_Weight":"206g",
+		"Type":"Bike Frame",
+		"Cable_Routing":"Internal",
+	    "Headset":"Not included",
+		"Image":"img/frame3.jpg",
+		"Description":"Developed in close partnership with the cult racer, bike messenger and adventurer Chas Christiansen, the geometry of the Cinelli Mash Works Steel Frameset is aggressive by nature. A high bottom bracket gives additional clearance for fast cornering."
+	  },
+	  {
+		"Id":4,
+		"Name":"Dedacciai Acciaio Steel Frameset",
+		"Forks":"Monocoque RS carbon fork 1 1/8 1 1/2",
+		"Frame_Material":"Steel",
+		"Frame_Weight":"1580g",
+		"Type":"Bike Frame",
+		"Cable_Routing":"Internal",
+	    "Headset":"Integrated Dedacciai headset SSDIFF83 included",
+		"Image":"img/frame4.jpg",
+		"Description":"Agile and stiff, the Dedacciai Acciaio Steel Frameset has been manufactured with DR-Zero welding, steel that is drawn with different thicknesses, then oil tempered and recovered in a checked atmosphere. Tig welded to lower the weight, further evolution is represented by the front end which has been improved with the monocoque RS fork. "
+	  },
+	  {
+		"Id":5,
+		"Name":"Tifosi Scalare Frameset",
+		"Forks":"Monocoque RS carbon fork",
+		"Frame_Material":"Carbon",
+		"Frame_Weight":"1200g",
+		"Type":"Bike Frame",
+		"Cable_Routing":"Internal",
+	    "Headset":"Not included",
+		"Image":"img/frame5.jpg",
+		"Description":"The unique geometry on the Tifosi Scalare Frameset makes it the ultimate road bike whether you are looking for all day riding comfort or a high-performing racer. The Scalare is not only stiff, but has precise handling and outstanding comfort. These characteristics are achieved due to the dynamic tube shaping and construction of the frame."
+	  },
+	  {
+		"Id":6,
+		"Name":"Ritchey Swiss Cross CX 2.0 Frameset",
+		"Forks":"Monocoque",
+		"Frame_Material":"Steel",
+		"Frame_Weight":"1602g",
+		"Type":"Bike Frame",
+		"Cable_Routing":"External",
+	    "Headset":"Not included",
+		"Image":"img/frame6.jpg",
+		"Description":"The Ritchey Swiss Cross CX 2.0 Frameset has been designed for cross racing. It boasts an all-new triple-butted, heat treated steel, which makes it strong and light in weight."
+
+	  },
+	  {
+		"Id":7,
+		"Name":"Harry Main Signature Mainiac Frame",
+		"Forks":"Monocoque",
+		"Frame_Material":"Alloy",
+		"Frame_Weight":"500g",
+		"Type":"Bike Frame",
+		"Cable_Routing":"Internal",
+	    "Headset":"Included",
+		"Image":"img/frame7.jpg",
+		"Description":"Harry main signature mainiac frame 20.8 translucent jet fuel top tube: 20.8 backend length: 13.2 slammed head-tube angle: 75 degree seat-tube angle: 71 degree bb height: 11.8 bb style: mid axle size: 14mm brake mounts: removable gyro tabs: removable (pre-drilled) frame weights: 20.8- 4 lb. 6 oz."		
+	  },
+	  {
+		"Id":8,
+		"Name":"Cinelli Mash Works Steel Frameset",
+		"Forks":"Columbus Cromor Steel, 35mm rake",
+		"Frame_Material":"Steel",
+		"Frame_Weight":"2060g",
+		"Type":"Bike Frame",
+		"Cable_Routing":"Internal",
+	    "Headset":"Not included",
+		"Image":"img/frame8.jpg",
+		"Description":"Developed in close partnership with the cult racer, bike messenger and adventurer Chas Christiansen, the geometry of the Cinelli Mash Works Steel Frameset is aggressive by nature. A high bottom bracket gives additional clearance for fast cornering. "		
+	   },
+	   {
+		"Id":9,
+		"Name":"Cinelli Experience Frameset",
+		"Forks":"Cinelli carbon with alloy steerer",
+		"Frame_Material":"Alloy",
+		"Frame_Weight":"1406g",
+		"Type":"Bike Frame",
+		"Cable_Routing":"External",
+	    "Headset":"Columbus Compass",
+		"Image":"img/frame9.jpg",
+		"Description":"The Cinelli Experience Frameset features a taste of the idiosyncratic design, Italian flair and technologies for which Cinelli is renowned. Constructed from specially selected Columbus triple butted Airplane tubing, chosen for its lightness, high resistance and stiffness."		
+	  },
+	  {
+		"Id":10,
+		"Name":"Cinelli Very Best Of Italo Frameset",
+		"Forks":"Columbus monocoque carbon",
+		"Frame_Material":"Carbon",
+		"Frame_Weight":"1406g",
+		"Type":"Bike Frame",
+		"Cable_Routing":"Fully internal",
+	    "Headset":"Columbus Compass",
+		"Image":"img/frame10.jpg",
+		"Description":"The Cinelli Very Best Of Italo Frameset combines the best technological know-how of the Columbus Carbon Lab, together with the frame making expertise of Cinelli to create an exceptional frameset. Every single element of the design has been analysed and developed to not only reduce weight, but also to maximise performance. "	
+
+	  }
+	]

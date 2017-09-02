@@ -1,0 +1,124 @@
+
+	[ 
+	  {
+		"Id":1,
+	    "Name":"Apollo Honeybee Kids Bike Helmet",
+		"AdjustmentSys":"Dail fit system",
+		"ClosureSys":"Under chin fastening",
+		"Weight":"300g pair",
+		"Type":"Kids' Helmets",
+		"Size":"48-52cm",
+		"NumOfVent":"9",
+		"Image":"img/helmet1.jpg",
+		"Description":"The adorable Apollo Honeybee Kids' Bike Helmet is the perfect way to keep your little one safe when they're out and about on their travels! With a sweet as pie design, the Honeybee helmet is easy to fit and adjust thanks to its easy-to-use dial fit adjuster, and it has removable pads for a snug and comfy fit."
+
+	  },
+	  {
+		"Id":2,
+	    "Name":"HardnutZ Hi Vis Bike Helmet",
+		"AdjustmentSys":"Dial-fit adjustment",
+		"ClosureSys":"Under chin fastening",
+		"Weight":"240g",
+		"Type":"Adult Helmet",
+		"Size":"54-61cm",
+		"NumOfVent":"22",
+		"Image":"img/helmet2.jpg",
+		"Description":"The HardnutZ Hi Vis Bike Helmet will protect your head from any potential knocks, keeping you safe whilst looking cool. Reflective Scotchlite panels have been added for extra visibility when cycling at night, and 22 vents will keep your head cool."
+	  },
+	  {
+		"Id":3,
+		"Name":"Feral BMX Bike Helmet",
+		"AdjustmentSys":"Fully adjustable strap with internal sizing foam pads",
+		"ClosureSys":"Anti pinch, quick release chin buckle with foam cover for comfort",
+		"Weight":"400g",
+		"Type":"BMX",
+		"Size":"58cm-61cm",
+		"NumOfVent":"11",
+		"Image":"img/helmet3.jpg",
+		"Description":"Super lightweight, high impact hard shell helmet. The ABS shell offers excellent resistance to knocks and scrapes."
+	  },
+	  {
+		"Id":4,
+		"Name":"Motobike MXR250 Full Face Kids Bike Helmet",
+		"AdjustmentSys":"Under chin straps",
+		"ClosureSys":"Strap fastening",
+		"Weight":"650-770g",
+		"Type":"Kids' Helmets",
+		"Size":"54cm - 58cm",
+		"NumOfVent":"14",
+		"Image":"img/helmet4.jpg",
+		"Description":"Vroooom! No motorbiking superstar looks the part without a cool helmet, and the Motobike MXR250 Full Face Kids' Bike Helmet does just the job! The tough ABS shell will protect your little one's head when out and about, whilst the removable padding and 14 vents help keep them super comfy. It's so much fun, they won't want to take it off!"
+	  },
+	  {
+		"Id":5,
+		"Name":"Boardman Team Road Bike Helmet",
+		"AdjustmentSys":"Dial Fit System",
+		"ClosureSys":"Side Release Buckle",
+		"Weight":"650-770g",
+		"Type":"Adult Helmets",
+		"Size":"53cm - 61cm",
+		"NumOfVent":"22",
+		"Image":"img/helmet5.jpg",
+		"Description":"The Boardman Team Road Bike Helmet sits comfortably with 22 vents to allow optimum air flow keeping you head cool at all times. The single-handed RC5 fitting system holds the helmet secure to your head during road and mountain biking. The detachable visor can be fitted whenever you need it and the reflective strip looks good and is great for road safety."
+	  },
+	  {
+		"Id":6,
+		"Name":"Raleigh Mission Silver Shadow Adult Bicycle Helmet",
+		"AdjustmentSys":"Dial Fit System",
+		"ClosureSys":"Side Release Buckle",
+		"Weight":"300g",
+		"Type":"Mens",
+		"Size":"54cm - 58cm",
+		"NumOfVent":"18",
+		"Image":"img/helmet6.jpg",
+		"Description":"The Raleigh Mission cycle helmet, combines style, safety and value for money. Microshell construction 24 vents for 360 degree cooling. Weight 280g. LED dial fit head ring fitting system. Nexus chin buckle. Anti pinch buckle. Detachable peak. Cam lock side strap adjusters."
+	  },
+	  {
+		"Id":7,
+		"Name":"Giro Atmos II Helmet",
+		"AdjustmentSys":"Dial Fit System",
+		"ClosureSys":"Side Release Buckle",
+		"Weight":"425g",
+		"Type":"Adult Helmets",
+		"Size":"54cm - 58cm",
+		"NumOfVent":"18",
+		"Image":"img/helmet7.jpg",
+		"Description":"The Giro Atmos II Helmet is known for its legendary performance, style and comfort. It features Thermoformed SL Roll Cage reinforcement which allows greater ventilation without compromising a helmets integrity. All of it's fantastic features makes this helmet a favourite with road, XC and cyclocross riders worldwide.  "
+	  },
+	  {
+		"Id":8,
+		"Name":"Boardman Pro Carbon Road Bike Helmet",
+		"AdjustmentSys":"Dial Fit System",
+		"ClosureSys":"Side Release Buckle",
+		"Weight":"250g",
+		"Type":"Unisex",
+		"Size":"52cm - 58cm",
+		"NumOfVent":"22",
+		"Image":"img/helmet8.jpg",
+		"Description":"The Boardman Pro Carbon Road Bike Helmet effortlessly adjusts with a single-handed tweak so you have ultimate comfort throughout your bike ride. With bags of ventilation your head stays cool and you could possibly forget you're wearing the helmet."
+	   },
+	   {
+		"Id":9,
+		"Name":"Childrens Kids Cycle Bike Helmet White Shark",
+		"AdjustmentSys":"Dial Fit System",
+		"ClosureSys":"Side Release Buckle",
+		"Weight":"200g",
+		"Type":"Kids' Helmates",
+		"Size":"49cm - 55cm",
+		"NumOfVent":"22",
+		"Image":"img/helmet9.jpg",
+		"Description":"Crazy stuff childrens bicycle helmets meet the european requirements for safety, en1078 and are as safe as any other approved helmets, but a load more fun for the kids to wear! so it's much easier to get children into the idea of wearing a helmet at an early age. * available in sizes: s/m (49-55 cm) and l/xl (55-61 cm) sizes are guidelines only and can vary dependant on the individual child. the onus is on the rider to ensure the helmet is a good and safe fit."
+	  },
+	  {
+		"Id":10,
+		"Name":"Uvex Kid 11 Helmet 46-52cm - Crocodile",
+		"AdjustmentSys":"FAS Fast Adjusting System",
+		"ClosureSys":"Monomatic Button Clasp",
+		"Weight":"200g",
+		"Type":"Kids' Helmates",
+		"Size":"46cm - 52cm",
+		"NumOfVent":"10",
+		"Image":"img/helmet10.jpg",
+		"Description":"The Uvex Kid 11 Helmet has a fun crocodile design whilst offering excellent protection for children aged 1-3 years on scooters, toys or journeys in a child seat. It has eight cooling vents, a FAS chin strap for easy adjustment, and an IAS headring ensures the helmet perfectly fits any head size."
+	  }
+	]

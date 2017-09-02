@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <!-- Required meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <!-- Color theme for statusbar -->
+    <meta name="theme-color" content="#2196f3">
+    <!-- app title -->
+    <title>Crank</title>
+	
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="img/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="img/apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="img/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="img/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="img/apple-touch-icon-152x152.png" />
+	<link rel="icon" type="image/png" href="img/favicon-196x196.png" sizes="196x196" />
+	<link rel="icon" type="image/png" href="img/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="img/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="img/favicon-16x16.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="img/favicon-128.png" sizes="128x128" />
+	<meta name="application-name" content="&nbsp;"/>
+	<meta name="msapplication-TileColor" content="#FFFFFF" />
+	<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+	<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+	<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+	<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+	<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+    <!-- Path to Framework7 Library CSS, Material Theme -->
+    <link rel="stylesheet" href="css/framework7.material.min.css">
+    <!-- Path to Framework7 color related styles, Material Theme -->
+    <link rel="stylesheet" href="css/framework7.material.colors.min.css">
+  </head>
+  
+  <body class="layout-null theme-indigo">
+  <!-- Side menu that animates in outside of pages for global useage-->				
+			
+           <!-- Side menu start-->	
+          <div class="statusbar-overlay"></div>
+			 <div class="panel-overlay"></div>
+			 <div class="panel panel-left panel-cover">
+			 <div class="view navbar-fixed" data-page="panel-left">
+			 <div class="pages">
+			 <div data-page="panel-left" class="page">
+			 <div class="navbar">
+			 <div class="navbar-inner">
+			 <div class="center">Crank Menu</div>			 
+			 </div>
+			 </div>
+			 <div class="page-content">
+
+			 <div class="list-block">
+			 <ul>
+		      <li>
+				<a href="#index" class="item-link close-panel">
+			  <div class="item-content">
+			  <div class="item-media">
+			  <i class="icon icon-f7"></i>
+			  </div>
+			  <div class="item-inner">
+			  <div class="item-title">Home</div>
+			  </div>
+			  </div>
+			  </a>
+			  </li>
+			  <li><a href="#about" class="item-link close-panel">
+			  <div class="item-content">
+			  <div class="item-media">
+			  <i class="icon icon-f7"></i>
+			  </div>
+			  <div class="item-inner">
+			  <div class="item-title">About</div>
+			  </div>
+			  </div>
+			  </a>
+			  </li>
+			    <li>
+				<a href="#safety" class="item-link close-panel">
+			  <div class="item-content">
+			  <div class="item-media">
+			  <i class="icon icon-f7"></i>
+			  </div>
+			  <div class="item-inner">
+			  <div class="item-title">Checkup</div>
+			  </div>
+			  </div>
+			  </a>
+			  </li>
+			   <li><a href="#preview" class="item-link close-panel">
+			  <div class="item-content">
+			  <div class="item-media">
+			  <i class="icon icon-f7"></i>
+			  </div>
+			  <div class="item-inner">
+			  <div class="item-title">Preview Checkups</div>
+			  </div>
+			  </div>
+			  </a>
+			  </li>
+			   <li><a href="#parts" class="item-link close-panel">
+			  <div class="item-content">
+			  <div class="item-media">
+			  <i class="icon icon-f7"></i>
+			  </div>
+			  <div class="item-inner">
+			  <div class="item-title">Bike parts</div>
+			  </div>
+			  </div>
+			  </a>
+			  </li>
+			 </ul>
+			 </div>
+			 </div>
+			 </div>
+			 </div>
+			 </div>
+			 </div>
+  
+    <!-- Views -->
+    <div class="views">
+      <!-- View -->
+      <div class="view view-main">
+        <!-- Pages -->
+        <div class="pages navbar-fixed">
+          <!-- Home page -->
+          <div class="page" data-page="index">
+		 
+		  	<div class="navbar">
+				<div class="navbar-inner">
+				<div class="center">Crank</div>
+			<div class="right">
+				<a href="#" class="open-panel link icon-only">
+					<i class="icon icon-bars"></i>
+					</a>
+					</div>
+				</div>
+			</div>
+			<div class="toolbar toolbar-bottom">
+              <div class="toolbar-inner">
+			  <a href="#index" class="link">
+			  <p>Home</p>
+			  </a>
+			   <a href="#preview" class="link">
+			   <p>Past Tests</p>
+			  </a>
+			   <a href="#safety" class="link">
+			   <p>Create Tests</p>
+			  </a>
+			   <a href="#about" class="link">
+			  <p>About Us</p>
+			  </a>
+			  </div>
+			  </div>
+			<div class="page-content">
+			
+			<div class="content-block-title"><h2>Cycling today?</h2></div>
+			<div class="content-block">
+			<div class="content-block-inner">
+			<p>Click the <a href="#safety" class="link">Create Test</a> in the bottom toolbar to create a new saftey check, 
+			doing so will list your tests in the <a href="#preview" class="link">Past Tests</a> section which is also in the bottom toolbar,
+			you will find you will have a more relaxing and motivated bike ride knowing your all set and had a quick check
+			before taking off. you can think of this as just like checking 
+			your mirrors before pulling off in your car, one check and you know your all set!</p>
+			</div>
+			</div>
+			<div class="content-block-title"><h2>Recommended Trails</h2></div>
+			<div class="content-block">
+			<div class="content-block-inner">
+			<p><img data-src="img/cycling2.jpg" width="100%" height="100%" class="lazy lazy-fadeIn ks-demo-lazy lazy-loaded" src="img/cycling2.jpg"/></p>
+			<p><h3>Quercus Trail</h3></p>
+			<p>This fantastic blue grade route is 7.5km long with a shorter 3.5 km option. 
+			It is a gem waiting to be discovered, expect flowing single track with gentle berms
+			, rolling jumps, wide gradual climbs with technical features for the adventurous riders. </p>
+			<p><img data-src="img/cycling1.jpg" width="100%" height="100%" class="lazy lazy-fadeIn lazy-loaded" src="img/cycling1.jpg"/></p>
+			<p><h3>Goosey Foot Tarn Trail</h3></p>
+			<p>The shortest of our waymarked cycle trails, but there are still small hills involved, so be warned!
+			The trail takes you past Goosey Foot and Juniper Tarns, two of our twenty or so man-made tarns.
+			Park at Moor Top car park and follow the blue waymarkers.
+			This short family cycle ride can be extended by linking with the Hawkshead Moor route.</p>
+			<p><img data-src="img/lakeside.jpg" width="100%" height="100%" class="lazy lazy-fadeIn lazy-loaded " src="img/lakeside.jpg"/></p>
+			<p><h3>Lakeside Way Cycle Trail</h3></p>
+			<p>The Lakeside Way multi-user path offers visitors to Kielder Water 
+			& Forest Park a truly unique experience giving access to the most scenic
+			parts of the lake shore and the opportunity to get up close to some of Kielder’s 
+			abundant wildlife.
+			The 26-mile path encircles Kielder Water and is suitable for walkers, cyclists, horse 
+			riders, mobility scooters and wheelchair users. </p>
+          </div>
+		  </div>
+		  <div class="content-block-title"><h2>Any Questions?</h2></div>
+			<div class="content-block">
+	      <div class="content-block-inner">
+			<p>Click the <a href="#about" class="link">About Us</a> in the bottom toolbar and hopefully we answer most of your questions, however if not,
+			feel free to contact us at 0191-232-2222 and we will get back to you!</p>
+			</div>
+			</div>
+		  </div>
+		 
+          </div>
+		  
+			
+          <!-- About page -->
+          <div class="page cached"  data-page="about">
+		  <div class="navbar">
+				<div class="navbar-inner">
+				
+				<div class="left">
+				<a href="#" class="back link icon-only">
+					<i class="icon icon-back"></i>
+					</a>
+					</div>
+					<div class="center">About</div>
+			<div class="right">
+				<a href="#" class="open-panel link icon-only">
+					<i class="icon icon-bars"></i>
+					</a>
+					</div>
+				</div>
+			</div>
+				<div class="toolbar toolbar-bottom">
+              <div class="toolbar-inner">
+			  <a href="#index" class="link">
+			  <p>Home</p>
+			  </a>
+			   <a href="#preview" class="link">
+			   <p>Past Tests</p>
+			  </a>
+			   <a href="#safety" class="link">
+			   <p>Create Tests</p>
+			  </a>
+			   <a href="#about" class="link">
+			  <p>About Us</p>
+			  </a>
+			  </div>
+			  </div>
+            <div class="page-content">
+            <div class="content-block-title"><h2>Why Crank?</h2></div>
+			<div class="content-block">
+			<div class="content-block-inner">
+			<p>We started developing this app to provide a greater experience for bike riding,
+			   we set out with core goals in mind that are to help you carry out in-depth checkups on your bike.</p>
+			</div>
+			</div>
+			<div class="content-block-title"><h2>About Me</h2></div>
+			<div class="content-block">
+			<div class="content-block-inner">
+			<p>My name is dan and like you i am an avid cyclist, i love to find new trails and encourage my friends to stay fit by doing so. i hope you find this app benifitial to your life style!</p>
+			</div>
+			</div>
+			 <div class="content-block-title"><h2>Need some help?</h2></div>
+			<div class="content-block">
+			<div class="content-block-inner">
+			<p>Instructions</p>
+			<p>1. Creating a test</p>
+			<p>To Create a test you must go to the "Create Tests" link, click it
+			and then select a date so you know which date that your test was on. you
+			then must fill in the rest of the form enusuring you dont miss one box.
+			once you have you will notice a notification appear at the bottom, this means your test has been saved and you now have created your checkup.</p>
+			<p>2. Previewing a test</p>
+			<p>To preview a test click the "Preview Tests" link, from here all your tests will be listed however if you dont have any only the title will be placed there.</p>
+			<p>3. Navagating</p>
+			<p>To navagate we have decided to include both a Left menu which opens on the click of the burger on the right of the menu text, 
+			we have inclded important links on the bottom tool bar as well just so you find it easy to get around. their is also links on the home screen inside of the text.</p>
+			<p>4. Finding our recommended bike parts</p>
+			<p>To find our bike parts onpen the side menu, click bike parts and locate a type of bike 
+			part you would like to see, we have 5 buttons spanning off to different types.
+			Click one of these buttons to be redirected to a page with our favourate and top 10 
+			(in our opinion) bike parts, to futher learn fo their information click on a name and you will see therelating data</p>
+			</div>
+			</div>
+			</div>
+          </div>
+ 
+          <!-- saftey page is where we record results page -->
+		  <div class="page cached" data-page="safety">
+		  <div class="navbar">
+				<div class="navbar-inner">
+				<div class="left">
+				<a href="#" class="back link icon-only">
+					<i class="icon icon-back"></i>
+					</a>
+					</div>
+					<div class="center">Safety Checkup</div>
+			<div class="right">
+				<a href="#" class="open-panel link icon-only">
+					<i class="icon icon-bars"></i>
+					</a>
+					</div>
+				</div>
+			</div>
+				<div class="toolbar toolbar-bottom">
+              <div class="toolbar-inner">
+			  <a href="#index" class="link">
+			  <p>Home</p>
+			  </a>
+			   <a href="#preview" class="link">
+			   <p>Past Tests</p>
+			  </a>
+			   <a href="#safety" class="link">
+			   <p>Create Tests</p>
+			  </a>
+			   <a href="#about" class="link">
+			  <p>About Us</p>
+			  </a>
+			  </div>
+			  </div>
+            <div class="page-content">
+			  <div class="content-block-title"><h2>Bike Saftey Checkup</h2></div>
+			  <form id="Checkform" class="list-block store-data">
+			  <div class="list-block inputs-list inset">
+			  <ul>
+			  <li>
+			  <div class="item-content">
+			  <div class="item-inner ">
+			  <div class="item-input item-input-field ">
+			  <div class="item-title label">Do your tires have a good amount of rubber?</div>
+			  <select name="tires">
+			  <option>Yes</option>
+			  <option>No</option>
+			  </select>
+			  </div>
+			  </div>
+			  </div>
+			  </li>
+			  <li>
+			  <div class="item-content">
+			  <div class="item-inner">
+			  <div class="item-input item-input-field">
+			  <div class="item-title label">Are your tires firmly inflated?</div>
+			  <select name="pumped">
+			  <option>Yes</option>
+			  <option>No</option>
+			  </select>
+			  </div>
+			  </div>
+			  </div>
+			  </li>
+			  <li>
+			  <div class="item-content">
+			  <div class="item-inner">
+			  <div class="item-input item-input-field">
+			  <div class="item-title label">Is your chain clean and oiled?</div>
+			  <select name="chain" >
+			  <option>Yes</option>
+			  <option>No</option>
+			  </select>
+			  </div>
+			  </div>
+			  </div>
+			  </li>
+			  <li>
+			  <div class="item-content">
+			  <div class="item-inner ">
+			  <div class="item-input item-input-field ">
+			  <div class="item-title label">Are your front and rear brakes in working order?</div>
+			  <select name="working" >
+			  <option>Yes</option>
+			  <option>No</option>
+			  </select>
+			  </div>
+			  </div>
+			  </div>
+			  </li>
+			  <li>
+			  <div class="item-content">
+			  <div class="item-inner ">
+			  <div class="item-input item-input-field ">
+			  <div class="item-title label">Do your lights shine bright & reflectors in the best position?</div>
+			  <select name="lights" >
+			  <option>Yes</option>
+			  <option>No</option>
+			  </select>
+			  </div>
+			  </div>
+			  </div>
+			  </li>
+			  <li>
+			  <div class="item-content">
+			  <div class="item-inner">
+			  <div class="item-input item-input-field">
+			  <div class="item-title label">Any Comments(Optional)</div>
+			  <textarea name="comments" class="resizable"></textarea>
+			  </div>
+			  </div>
+			  </div>
+			  </li>
+			  </ul>
+			  </div>
+			  </form>
+			  <div class="content-block">
+				<a href="#"  class="button button-raised get-storage-data notification-single">Save Checkup</a>
+				</p>
+				</div>
+			  </div>
+            </div>
+		  
+		  
+		  <!-- preview the results page -->
+          <div class="page cached" data-page="preview">
+            <div class="navbar">
+				<div class="navbar-inner">
+				<div class="left">
+				<a href="#" class="back link icon-only">
+					<i class="icon icon-back"></i>
+					</a>
+					</div>
+					<div class="center">Past Tests</div>
+			<div class="right">
+				<a href="#" class="open-panel link icon-only">
+					<i class="icon icon-bars"></i>
+					</a>
+					</div>
+				</div>
+			</div>
+				<div class="toolbar toolbar-bottom">
+              <div class="toolbar-inner">
+			  <a href="#index" class="link">
+			  <p>Home</p>
+			  </a>
+			   <a href="#preview" class="link">
+			   <p>Past Tests</p>
+			  </a>
+			   <a href="#safety" class="link">
+			   <p>Create Tests</p>
+			  </a>
+			   <a href="#about" class="link">
+			  <p>About Us</p>
+			  </a>
+			  </div>
+			  </div>
+			<div class="page-content " >
+			<div class="content-block-title"><h2>Previous Tests</h2></div>
+			<div id="test-list">
+			</div>
+			</div>
+			</div>
+			
+			
+			
+		
+			
+		
+			
+          <!-- bike parts page page -->
+          <div class="page cached" data-page="parts">
+		  <div class="navbar">
+				<div class="navbar-inner">
+				<div class="left">
+				<a href="#" class="back link icon-only">
+					<i class="icon icon-back"></i>
+					</a>
+					</div>
+					<div class="center">Bike Parts</div>
+			<div class="right">
+				<a href="#" class="open-panel link icon-only">
+					<i class="icon icon-bars"></i>
+					</a>
+					</div>
+				</div>
+			</div>
+				<div class="toolbar toolbar-bottom">
+              <div class="toolbar-inner">
+			  <a href="#index" class="link">
+			  <p>Home</p>
+			  </a>
+			   <a href="#preview" class="link">
+			   <p>Past Tests</p>
+			  </a>
+			   <a href="#safety" class="link">
+			   <p>Create Tests</p>
+			  </a>
+			   <a href="#about" class="link">
+			  <p>About Us</p>
+			  </a>
+			  </div>
+			  </div>
+            <div class="page-content">
+			<div class="content-block-title"><h2>Select a category</h2></div>
+			<div class="content-block">
+			<div class="content-block-inner">
+			<div class="content-block">
+			<a href="pedalslist.html" data-context-name="pedalslist" class="button button-raised">Pedals</a>
+			</div>
+			<div class="content-block">
+			<a href="helmetslist.html" data-context-name="helmetslist" class="button button-raised">Helmets</a>
+			</div>
+			<div class="content-block">
+			<a href="chainslist.html" data-context-name="chainslist" class="button button-raised">Chains</a>
+			</div>
+			<div class="content-block">
+			<a href="frameslist.html" data-context-name="frameslist" class="button button-raised">Frames</a>
+			</div>
+			<div class="content-block">
+			<a href="saddleslist.html" data-context-name="saddleslist" class="button button-raised">Saddles & Seats</a>
+			</div>
+            </div>
+          </div>
+		  </div>
+		  
+		  
+        </div>
+      </div>
+    </div>
+	<script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/framework7.min.js"></script>
+    <script type="text/javascript" src="my-app.js"></script>
+	
+  </body>
+</html> 

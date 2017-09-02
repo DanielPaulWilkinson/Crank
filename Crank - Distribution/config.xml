@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <widget xmlns   = 	  "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.crank.app"
+        versionCode = "10" 
+        version     = "1.0.0" >
+		
+    <name>Crank</name>
+	<platform name="android" />
+    <description>
+        This app alows the user to record saftey checks on their bike and view our recomeneded bike parts.
+    </description>
+	<icon src="mdpi.png" platform="android" qualifier="mdpi" />
+	<icon src="hdpi.png" platform="android" qualifier="hdpi" />
+	<icon src="xhdpi.png" platform="android" qualifier="xhdpi" />
+	<icon src="xxhdpi.png" platform="android" qualifier="xxhdpi" />
+	<icon src="xxxhdpi.png" platform="android" qualifier="fr-xxhdpi" />
+    <author email="bg69tg@student.sunderland.ac.uk">
+        Daniel Wilkinson
+    </author>
+
+</widget>

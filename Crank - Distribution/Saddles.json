@@ -1,0 +1,93 @@
+[ 
+	  {
+		"Id":1,
+		"Name":"Selle Royal Classic Alpine Saddle",
+		"Gender":"Unisex",
+		"Type":"Leisure Saddles",
+		"Weight":"730g",
+		"Image":"img/seat1.jpg",
+		"Description":"The Selle Royal Classic Alpine Saddle is a supremely comfy saddle that looks as good as it feels. The top layer of Royalgel guarantees the highest level of comfort, reducing pressure peaks by up to a huge 40%. Cycle in style and comfort."
+	  
+	  },
+	  {
+		"Id":2,
+		"Name":"Selle Royal Spyce Gel Kids Bike Saddle",
+		"Gender":"Kids",
+		"Type":"Leisure Saddles",
+		"Weight":"325g",
+		"Image":"img/seat2.jpg",
+		"Description":"The Selle Royal Spyce Gel Kids Bike Saddle evenly spreads weight across the entire saddle surface for much more enjoyable riding experience."
+	  },
+	  {
+		"Id":3,
+		"Name":"Lookin Relaxed Unisex Bike Saddle",
+		"Gender":"Unisex",
+		"Type":"Leisure Saddles",
+		"Weight":"830g",
+		"Image":"img/seat3.jpg",
+		"Description":"You'll get some unbeatable comfort from the Lookin Relaxed Bike Saddle.  We all know riding your bike can be hard on sensitive bottoms, so the Lookin Good saddle has come up with an innovative RoyalGel to reduce pressure on your backside.  Plus, it also has a clever Cool Cover which keeps the saddle up to 25°C in the sun."
+	  },
+	  {
+		"Id":4,
+		"Name":"Selle Italia Turbomatic Gel Flow Bike Saddle",
+		"Gender":"Unisex",
+		"Type":"Leisure Saddles",
+		"Weight":"260g",
+		"Image":"img/seat4.jpg",
+		"Description":"The Selle Italia Turbomatic Gel Flow Bike Saddle is ideal if you like taking a more rough and intense ride as the shock absorbent silicone gel inserts and padding help keep you safe and sound. The anatomic cut-out with differentiated thickness provides you with superior comfort and the special feature manganese tubular rails promises durability and reliability."
+	  },
+	  {
+		"Id":5,
+		"Name":"Brooks B17 Standard Bike Saddle",
+		"Gender":"Mens",
+		"Type":"Leisure Saddles",
+		"Weight":"850g",
+		"Image":"img/seat5.jpg",
+		"Description":"The Brooks B17 Standard Mens Bike Saddle is the flagship model in the Brooks range, having been a best seller for decades with a traditional yet stylish design. The undoubted superiority of Brooks saddles is largely due to their flawless quality in every detail."
+	  },
+	  {
+		"Id":6,
+		"Name":"Selle Royal Freeway Fit Relaxed Saddle",
+		"Gender":"Womans",
+		"Type":"Leisure Saddles",
+		"Weight":"550g",
+		"Image":"img/seat6.jpg",
+		"Description":"The Selle Royal Freeway Fit Relaxed Saddle combines the immediate comfort of a soft-touch cover with the shape memory of Slow Fit Foam. Slow Fit Foam is a visco-elastic material that moulds to your body and guarantees a uniform weight distribution. Compared to traditional foam padding, Slow Fit Foam reduces shocks and the vibrations at the points of contact, improving blood circulation. The strategic placement of the padding further allows for reduced saddle weight."
+	  },
+	  {
+		"Id":7,
+		"Name":"Ridge Style Saddle Turquoise",
+		"Gender":"Womans",
+		"Type":"Leisure Saddles",
+		"Weight":"330g",
+		"Image":"img/seat7.jpg",
+		"Description":"The Ridge Style Saddle is the perfect addition to your bike if you're looking to inject some colour! It comes in 3 different colours and has been specifically designed for a moderate/relaxed riding position. If you're looking to stay comfortable on those leisurely cycle rides then this is the saddle for you!"
+	  },
+	  {
+		"Id":8,
+		"Name":"Selle Royal Classic Freeway Fit Foam",
+		"Gender":"Mens",
+		"Type":"Leisure Saddles",
+		"Weight":"520g",
+		"Image":"img/seat8.jpg",
+		"Description":"The Selle Royal Classic Freeway Fit Foam - Male Saddle features a Slow Fit Foam which unlike traditional foam padding, reduces the hits and vibrations in the points of contact. It also combines the immediate comfort of a soft-touch cover with the shape memory of the new Sloat Fit Foam."
+	   },
+	   {
+		"Id":9,
+		"Name":"Bioflex onGel U2 -ELASTOMER",
+		"Gender":"Unisex",
+		"Type":"Leisure Saddles",
+		"Weight":"490g",
+		"Image":"img/seat9.jpg",
+		"Description":"The Bioflex onGel U2 -ELASTOMER Saddle keeps you comfy, no matter what`s ahead of you. The gel damps road shocks and vibrations for that extra smooth ride. With an unisex design, this saddle is perfect especially if you`re sharing a bike. After all sharing is caring and this saddle does truly care for you."
+	  },
+	  {
+		"Id":10,
+		"Name":"Sportourer Zeta Comfort Gel",
+		"Gender":"Unisex",
+		"Type":"Leisure Saddles",
+		"Weight":"705g"	,
+		"Image":"img/seat10.jpg",
+		"Description":"The Sportourer Zeta Comfort Gel is super soft due to the foam and gel inserts and it helps you tackle the daily urban commute in style and without any riding pains."
+	  }
+	]

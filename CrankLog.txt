@@ -1,0 +1,118 @@
+commit 5a94a3e530d1b319bc584c3ff07565059d9f19f3
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Sun Apr 17 23:23:06 2016 +0100
+
+    Added: 27 Qunit tests, edited layout
+
+
+ommit 96a5bbe7b81830b6724c39b96660cb652887ec62
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Sun Apr 17 14:22:45 2016 +0100
+
+    Fixed Bug: time error, only calling time function in js once on open of applcation instead of one every submition of the form.
+
+commit ff5d5a3bc9bd6d2a11afe476a187026df1ddb564
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Sat Apr 16 23:09:26 2016 +0100
+
+    Finished: The professional look of master/detail pages
+
+commit b83eb7aba2010c5b9e8cbc9902e911e43cace318
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Sat Apr 16 22:10:20 2016 +0100
+
+    Added: detail imaged and descriptions
+
+commit 096fc87015faec7db662a7150417e835dc53639d
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Fri Apr 15 23:53:31 2016 +0100
+
+    Added: Images for master pages, history and description
+
+commit c8ba01518380e1a01bba4c7bcd4b5b6b38aa3d1e
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Thu Apr 14 22:26:24 2016 +0100
+
+    Added: Icons, Config.xml, better display of results
+
+
+commit aa51a449c5c6b65047910e406f0a4c980d149b38
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Tue Apr 12 13:53:04 2016 +0100
+
+    Bug Fix: Made Images Responsive with persentages
+
+
+commit 09cc7e38594d4f9c516042ee421d181b8e066c14
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Sat Apr 9 16:42:51 2016 +0100
+
+    Bug fixes, Deployed on android device and can confirm in full working order
+
+
+commit 172a9d61a258ea8d68b7d9cf63fb05d63d49ba15
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Sat Apr 9 14:21:07 2016 +0100
+
+    Genral fixes: broken links, table rows appearing above not below..unknown
+
+
+commit 180019842ba915ebdb3f9ec5267773a960538c31
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Sat Apr 9 13:45:00 2016 +0100
+
+    Added: Info on home and about pages; looked slightly bland, Screen Cast
+
+
+commit a8031ccfbf8b4ea3da4a00fa7c95bb3c678b0142
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Fri Apr 8 23:33:38 2016 +0100
+
+    Added: Favcon images, Fixed: List Image, Detail pages now explain data!
+
+
+commit 1c4b3fae17cf85538b1da639b97a677908ec91c0
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Fri Apr 8 15:15:34 2016 +0100
+
+    Spelling & Minor fixes
+commit 55e353046e749055787839d1b2f4b658884e3b94
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Fri Apr 8 14:52:55 2016 +0100
+
+    Added: Ability to save bike checkups & preview past checkups using local storage
+
+
+commit b25fe45e314be68fbd3d076e240904a65136cf74
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Thu Apr 7 16:35:38 2016 +0100
+
+    Completed Master Detail Pages. Added: Frames,Saddlees & Chains - Hit Max Of 10.
+
+
+commit d00d060836fab4335c89f45f912263fa8ce4dc08
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Wed Apr 6 21:39:14 2016 +0100
+
+    Added: Pedals-Master/Detail & Helmets-Master/Detail
+
+
+commit 2e6020e0687f8f9f0c4d08a4ee170922e3645119
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Tue Apr 5 15:11:46 2016 +0100
+
+    Fixed Nav issue dynamic bar not compatable, added: about page
+
+
+commit 7671f0b5fe401982dc339fef8da924f4ed85a047
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Mon Apr 4 13:41:53 2016 +0100
+
+    Added: Side-Menu,Bottom-Menu-Buttons,Layout & Welcome Message
+
+
+commit f1fba35efe40e901716c7d2422b62ff7b5f73e36
+Author: Daniel Wilkinson <bg69tg@student.sunderland.ac.uk>
+Date:   Mon Apr 4 09:44:36 2016 +0100
+
+    Added framework 7

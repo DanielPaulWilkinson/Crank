@@ -1,0 +1,95 @@
+
+	[ 
+	  {
+		"Id":1,
+		"Name":"Pedals-SL Road Pedals Black",
+		"Discipline":"Road",
+		"Weight":"300g pair",
+		"Type":"Clip-In Pedals",
+		"Image":"img/ped1.jpg",
+		"Description":"The Shimano PDR-540 SPD Pedals-SL Road Pedals Black have a low profile platform so the cyclist can benefit from quick and easy access. Swift cleat adjustment and good contact is effortlessly achieved with good stability. "
+	  },
+	  {
+		"Id":2,
+		"Name":"Shimano Pedal PDR 550 Black",
+		"Discipline":"Road",
+		"Weight":"300g",
+		"Type":"SPD Pedals",
+		"Image":"img/ped2.jpg",
+		"Description":"The Shimano Pedal PDR 550 Black has a wide lightweight resin body that provides large shoe contact area to maximise power. The low profile platform with open design allows for easy access and cleat adjustments."
+	  },
+	  {
+		"Id":3,
+		"Name":"M530 Trail Pedals",
+		"Discipline":"MTB",
+		"Weight":"455g per pair",
+		"Type":"SPD Pedals",
+		"Image":"img/ped3.jpg",
+		"Description":"The Shimano M530 MTB SPD Two Sided Mechanism Trail Pedals keeps it all in check during single track and ultra-techie descents. The pedals give you that much needed stability and they don`t allow that pesky mud to slow you down. The pedals are durable thanks to a sealed cartridge bearing spindle that protects from mud and water. Awesomeness!"
+
+	  },
+	  {
+		"Id":4,
+		"Name":"PD-A530 Pedals",
+		"Discipline":"Road",
+		"Weight":"383g",
+		"Type":"SPD Pedals",
+		"Image":"img/ped4.jpg",
+		"Description":"The Shimano PD-A530 SPD Pedals Single Sided Road Pedals give you the option to ride with cleats or normal shoes, as the pedal combines SPD Pedals mechanism on one side and a concave stable platform body on the other. You can also adjust the cleat tension to your own needs."
+	  },
+	  {
+		"Id":5,
+		"Name":"Shimano MTB Pedals - Silver",
+		"Discipline":"MTB",
+		"Weight":"420g",
+		"Type":"Clip-In Pedals",
+		"Image":"img/ped5.jpg",
+		"Description":"The Shimano M530 MTB SPD Two Sided Mechanism Trail Pedals keeps it all in check during single track and ultra-techie descents. The pedals give you that much needed stability and they don`t allow that pesky mud to slow you down. The pedals are durable thanks to a sealed cartridge bearing spindle that protects from mud and water. Awesomeness!"
+	  },
+	  {
+		"Id":6,
+		"Name":"Shimano Pedals - Black",
+		"Discipline":"MTB",
+		"Weight":"507g",
+		"Type":"SPD Pedals",
+		"Image":"img/ped6.jpg",
+		"Description":"The Shimano Pedal PDR 550 Black has a wide lightweight resin body that provides large shoe contact area to maximise power. The low profile platform with open design allows for easy access and cleat adjustments."
+
+	  },
+	  {
+		"Id":7,
+		"Name":"Boardman MTB PRO Pedal",
+		"Discipline":"MTB",
+		"Weight":"285g",
+		"Type":"SPD Pedals",
+		"Image":"img/ped7.jpg",
+		"Description":"The Boardman MTB PRO Pedal is Boardman's lightest road pedal weighing at only 285g. Offering dual sided SPD-compatible cleat engagement and attractive forged aluminium finish, this pedal is ideal for enthusiasts looking to trim weight from their bike!"
+	  },
+	  {
+		"Id":8,
+		"Name":"Crank Brothers 5050 3 Pedals",
+		"Discipline":"MTB",
+		"Weight":"403g",
+		"Type":"Flat Pedals",
+		"Image":"img/ped8.jpg",
+		"Description":"The Crank Brothers 5050 3 Pedals have a robust construction and they excel on the trails. A perfect fit for MTB bikes, these pedals use a two-piece aluminium and composite platform for sturdy, consistent performance, with a black and red aesthetic that is sleek and stylish."
+	   },
+	   {
+		"Id":9,
+		"Name":"CrankBrothers Bike Pedals",
+		"Discipline":"MTB",
+		"Weight":"234g",
+		"Type":"Flat Pedals",
+		"Image":"img/ped9.jpg",
+		"Description":"The Crank Brothers 5050 2 Pedals are an excellent addition for any aspiring or established MTB rider contemplating Downhill and freeride application. The dual material configuration ensures excellent strength and rigidity, maximising power transfer on the trails. Adjustable traction pins ensure the setting is tailored to individual requirements, whilst a black and silver finish creates a prominent, professional aesthetic."
+	  },
+	  {
+		"Id":10,
+		"Name":"MKS Track Pedals",
+		"Discipline":"Road",
+		"Weight":"263g",
+		"Type":"Flat Pedals",
+		"Image":"img/ped10.jpg",
+		"Description":"The MKS Prime Sylvan Track Pedals are anodised in three brilliant colours and include an allen key for axle tightening."
+	  }
+	]
